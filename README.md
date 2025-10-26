@@ -89,10 +89,6 @@ python laptops_spider.py
 ## 👤 Author
 **Onyekachi Ejimofor**  
 💼 *Lead Python Developer — Web Scraping & Data Automation*  
-📧 onyeife@gmail.com  
-🌐 https://github.com/Onyeksman
-
----
 
 ## 📜 License
 This project is released under the [MIT License](LICENSE).
